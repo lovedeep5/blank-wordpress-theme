@@ -1,0 +1,3 @@
+<?php
+/* Search page*/
+?>
