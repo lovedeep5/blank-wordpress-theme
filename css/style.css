@@ -1,0 +1,24 @@
+.banner{
+	background-image: url(../images/banner.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+.banner .container .row .col-md-12{
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+.banner .container .row .col-md-12 h1{
+	color: white;
+}
+.banner .container .row .col-md-12 p{
+	color: white;
+	max-width: 750px;
+	width: 100%;
+}
+.banner-overlay{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+}
